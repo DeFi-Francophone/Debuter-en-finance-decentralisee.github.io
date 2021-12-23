@@ -7,10 +7,6 @@ Prêt? C'est parti.
 
 Nous avons organisé cette page de la manière suivante;
 
-# 1. Ressources Crypto - blockchain/crypto/techno/Rollups-scaling
-# 2. Applications (DeFi, NFT, DAO, Pay2Earn...)
-# 3. Cas d'usage en entreprise
-
 ## 1. Ressources Crypto - blockchain/crypto/techno/Rollups-scaling
 --------------------------------------------
 
