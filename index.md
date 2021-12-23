@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Bienvenue sur la page de DeFi Francophone!
 
-You can use the [editor on GitHub](https://github.com/DeFi-Francophone/Debuter-en-finance-decentralisee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Si tu es ici c'est parce que tu veux en savoir plus cet univers vaste (et pas impitoyable) qu'est la **finance décentralisée**,
+Ca tombe bien, tu es à la bonne place! le [groupe télégram DeFi Francophone] (https://t.me/defifrance) qui compte plus de 3100 membres à regrouper un carnet de route qui te sera utile en tant que nouveau afin de faire ton chemin dans le vaste monde de la Défi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prêt? C'est parti.
 
-### Markdown
+Nous avons organisé cette page de la manière suivante;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 1. Ressources Crypto - blockchain/crypto/techno/Rollups-scaling
+# 2. Applications (DeFi, NFT, DAO, Pay2Earn...)
+# 3. Cas d'usage en entreprise
 
-```markdown
-Syntax highlighted code block
+## 1. Ressources Crypto - blockchain/crypto/techno/Rollups-scaling
+--------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+### *Blockchain/cryptomonnaies/techno en Français*
 
-- Bulleted
-- List
+- https://openclassrooms.com/fr/courses/3925766-comprendre-le-bitcoin-et-la-blockchain (Debutant)
+- https://defiformationfrance.thinkific.com/courses/lescryptomonnaies (Debutant)
+- https://defiformationfrance.thinkific.com/courses/les-portefeuilles (Debutant)
+- https://academy.binance.com/fr/start-here (Debutant)
+- https://www.ethereum-france.com/
+- https://thedailygweifr.substack.com/
 
-1. Numbered
-2. List
+### *Blockchain/cryptomonnaies/techno en Anglais*
 
-**Bold** and _Italic_ and `Code` text
+- https://a16z.com/2018/02/10/crypto-readings-resources/ (Avance)
 
-[Link](url) and ![Image](src)
-```
+## 2. Applications (DeFi, NFT, DAO...)
+--------------------------------------------
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **DeFi en Français**
 
-### Jekyll Themes
+- https://academy.stakedao.org/tag/fr/ (Debutant)
+- https://www.afte.com/sites/default/files/inline-files/M%C3%A9moire%20du%201er%20prix%20-%20Torrens%20Jean.pdf (Debutant)
+- Finematic: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (debutant/avance)
+- TokenBrice: https://tokenbrice.xyz/fr/posts/ (Debutant/avance/expert)
+- how to DeFi (Debutant/avance/expert) - Lien
+-  https://banklessfr.substack.com/ (Avance)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DeFi-Francophone/Debuter-en-finance-decentralisee.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **DeFi en Anglais**
+- https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets
+- https://research.thetie.io/the-defi-den/ (Debutant/Avance/Expert)
+- https://www.argent.xyz/learn/ (Debutant)
 
-### Support or Contact
+### Applications (DeFi, NFT, DAO...)  en Français
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- https://metaversalfr.substack.com/
+
+### Applications (DeFi, NFT, DAO...)  en Anglais
+- https://www.argent.xyz/learn/
+
