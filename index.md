@@ -36,7 +36,7 @@ Nous avons organisé cette page de la manière suivante;
 - https://www.afte.com/sites/default/files/inline-files/M%C3%A9moire%20du%201er%20prix%20-%20Torrens%20Jean.pdf (Debutant)
 - Finematic: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (debutant/avance)
 - TokenBrice: https://tokenbrice.xyz/fr/posts/ (Debutant/avance/expert)
-- how to DeFi (Debutant/avance/expert) - Lien
+- how to DeFi (Debutant/avance/expert) - https://github.com/DeFi-Francophone/Debuter-en-finance-decentralisee.github.io/blob/gh-pages/How_to_DeFi_Fr.pdf
 -  https://banklessfr.substack.com/ (Avance)
 
 ### **DeFi en Anglais**
