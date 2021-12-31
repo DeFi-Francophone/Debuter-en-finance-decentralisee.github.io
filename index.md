@@ -39,6 +39,7 @@ Nous avons organisé cette page de la manière suivante;
 - https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets
 - https://research.thetie.io/the-defi-den/ (Debutant/Avance/Expert)
 - https://www.argent.xyz/learn/ (Debutant)
+- https://www.gemini.com/cryptopedia (Debutant)
 
 ### Applications (DeFi, NFT, DAO...)  en Français
 
