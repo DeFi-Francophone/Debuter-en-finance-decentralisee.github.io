@@ -30,7 +30,7 @@ Nous avons organisé cette page de la manière suivante;
 
 - https://academy.stakedao.org/tag/fr/ (Debutant)
 - https://www.afte.com/sites/default/files/inline-files/M%C3%A9moire%20du%201er%20prix%20-%20Torrens%20Jean.pdf (Debutant)
-- Finematic: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (debutant/avance)
+- Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (debutant/avance)
 - TokenBrice: https://tokenbrice.xyz/fr/posts/ (Debutant/avance/expert)
 - how to DeFi (Debutant/avance/expert) - https://github.com/DeFi-Francophone/Debuter-en-finance-decentralisee.github.io/blob/gh-pages/How_to_DeFi_Fr.pdf
 -  https://banklessfr.substack.com/ (Avance)
@@ -47,3 +47,14 @@ Nous avons organisé cette page de la manière suivante;
 ### Applications (DeFi, NFT, DAO...)  en Anglais
 - https://www.argent.xyz/learn/
 
+## Ressources additionnelles
+
+### Reports
+Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQaL8mKEl8fzVWjv7B (Expert)
+
+### Bridges 
+- https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/edit#gid=0 
+
+### Aidrops 
+- https://earni.fi/ - EN - Voir si vous êtes éligible a un airdrop.
+- https://airdrops.io/speculative/ - EN - Liste les airdrops potentiels
