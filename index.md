@@ -57,7 +57,8 @@ Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQ
 - https://www.layerswap.io/ - Déposer des crypto sur L2 depuis un CEX
 
 ### Aidrops 
-- https://earni.fi/ - EN - Voir si vous êtes éligible a un airdrop.
+- https://earni.fi/ - EN - Voir si vous êtes éligible à un airdrop.
+- https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/edit?usp=sharing - EN - Rumeurs de airdrops
 - https://github.com/Anish-Agnihotri/merkle-airdrop-starter 🌻 - EN - Avancé pour développeurs - Comment distribuer un airdrop en utilisant la distribution de merkletree
 - https://airdrops.io/speculative/ - EN - Liste les airdrops potentiels
 
