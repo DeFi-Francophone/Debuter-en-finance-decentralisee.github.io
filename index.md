@@ -53,7 +53,7 @@ Nous avons organisé cette page de la manière suivante;
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map - EN - Avancé - Roadmap pour devenir developpeur dans la DeFi
 - https://github.com/Anish-Agnihotri/merkle-airdrop-starter 🌻 - EN - Avancé pour développeurs - Comment distribuer un airdrop en utilisant la distribution de merkletree
 - https://www.youtube.com/watch?v=4a-vutuyTUU - EN - Explication sur les flashmints
-- 
+
 ## 4. Ressources additionnelles
 
 ### Reports
