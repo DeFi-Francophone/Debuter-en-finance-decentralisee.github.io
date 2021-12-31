@@ -65,3 +65,7 @@ Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQ
 
 ### ICO
 - https://icodrops.com - EN - Liste les prochaines levée de fonds
+
+#### Telegram
+
+- https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
