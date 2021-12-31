@@ -53,8 +53,13 @@ Nous avons organisé cette page de la manière suivante;
 Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQaL8mKEl8fzVWjv7B (Expert)
 
 ### Bridges 
-- https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/edit#gid=0 
+- https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/edit#gid=0 - Ressource ultime
+- https://www.layerswap.io/ - Déposer des crypto sur L2 depuis un CEX
 
 ### Aidrops 
 - https://earni.fi/ - EN - Voir si vous êtes éligible a un airdrop.
+- https://github.com/Anish-Agnihotri/merkle-airdrop-starter 🌻 - EN - Avancé pour développeurs - Comment distribuer un airdrop en utilisant la distribution de merkletree
 - https://airdrops.io/speculative/ - EN - Liste les airdrops potentiels
+
+### ICO
+- https://icodrops.com - EN - Liste les prochaines levée de fonds
