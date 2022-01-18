@@ -1,9 +1,11 @@
 # Bienvenue sur la page de DeFi Francophone!
 
 Si tu es ici c'est parce que tu veux en savoir plus cet univers vaste (et pas impitoyable) qu'est la **finance décentralisée**,
-Ca tombe bien, tu es à la bonne place! le [groupe télégram DeFi Francophone] (https://t.me/defifrance) qui compte plus de 3100 membres à regrouper un carnet de route qui te sera utile en tant que nouveau afin de faire ton chemin dans le vaste monde de la Défi.
+Ca tombe bien, tu es à la bonne place! Nous avons réalisé cette page qui regroupe un carnet de carnet de route qui te sera utile en tant que nouveau afin de faire ton chemin dans le vaste monde de la Défi.
 
 Prêt? C'est parti.
+
+Les mainteneurs:  https://t.me/D4878za9aB https://t.me/nicedayyyyy
 
 Nous avons organisé cette page de la manière suivante;
 
@@ -43,6 +45,7 @@ Nous avons organisé cette page de la manière suivante;
 - [Cryptoeconomics.study](https://cryptoeconomics.study) -- An free and open source book & course on Cryptoeconomics
 
 ### Blockchain analysis, data ...
+
 - https://duneanalytics.com/home dashboard
 - https://www.tokenterminal.com/home/
 - https://defipulse.com/
@@ -60,8 +63,10 @@ Nous avons organisé cette page de la manière suivante;
 - https://www.afte.com/sites/default/files/inline-files/M%C3%A9moire%20du%201er%20prix%20-%20Torrens%20Jean.pdf (Debutant)
 - Finematics: https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA (debutant/avance)
 - TokenBrice: https://tokenbrice.xyz/fr/posts/ (Debutant/avance/expert)
+- Cryptouf : https://cryptoouf.com/ (débutant)
 - how to DeFi (Debutant/avance/expert) - https://github.com/DeFi-Francophone/Debuter-en-finance-decentralisee.github.io/blob/gh-pages/How_to_DeFi_Fr.pdf
 -  https://banklessfr.substack.com/ (Avance)
+-  https://defiformationfrance.fr/ (Débutant)
 
 ### **DeFi en Anglais**
 - https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets
@@ -74,7 +79,10 @@ Nous avons organisé cette page de la manière suivante;
 - https://metaversalfr.substack.com/
 
 ### Applications (DeFi, NFT, DAO...)  en Anglais
+- How to NFT (Debutant/avance/expert) - https://github.com/DeFi-Francophone/Debuter-en-finance-decentralisee.github.io/blob/gh-pages/How_to_NFT.pdf
 - https://www.argent.xyz/learn/
+- https://a16z.com/crypto-startup-school/ - Start crypto journey
+
 
 
 ### Dashboard (suivi de portfefeuille)
@@ -85,6 +93,8 @@ Nous avons organisé cette page de la manière suivante;
 - https://rotki.com/
 - https://gnosis-safe.io/ wallet multi-sig
 - https://bloxy.info/ Analyse une adresse, une transaction
+- http://yieldwatch.net - Limité à la BSC et Matic
+- https://farm.army/ - limité à la BSC
  
 ### Suivi de ses positions LP
 - https://apy.vision
@@ -99,28 +109,52 @@ Nous avons organisé cette page de la manière suivante;
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map - EN - Avancé - Roadmap pour devenir developpeur dans la DeFi
 - https://github.com/Anish-Agnihotri/merkle-airdrop-starter 🌻 - EN - Avancé pour développeurs - Comment distribuer un airdrop en utilisant la distribution de merkletree
 - https://www.youtube.com/watch?v=4a-vutuyTUU - EN - Explication sur les flashmints
+- https://ethereum.org/en/developers/docs/smart-contracts/ 
+- https://courses.consensys.net/collections 
+- https://cryptozombies.io/
+- https://github.com/frankiefab100/Blockchain-Development-Resources
+
 
 ## 4. Ressources additionnelles
+
+### Wallets:
+- https://www.myetherwallet.com/ - La wallet erc20 de référence sur ethereum
+- https://frame.sh/ - Outil pour Wallet embarqué (on l'a préfère à metamask)
+- https://metamask.io/ - Wallet dans le browser ou sur mobile
+- https://chainlist.org/ Pour ajouter un RPC (blochchain network) à son wallet
 
 ### Reports
 Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQaL8mKEl8fzVWjv7B (Expert)
 
 ### Bridges 
-- https://chainlist.org/ Pour ajouter un RPC (blochchain network) à son wallet
 - https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/edit#gid=0 - Ressource ultime
 - https://www.layerswap.io/ - Déposer des crypto sur L2 depuis un CEX
+- https://xpollinate.io/ - Cross-chain transfer
 
 ## On-chain analysis
 - https://www.nansen.ai/
 - https://dune.xyz/
+- https://www.breadcrumbs.app/
+
+## Charts:
+- Tradingview.com
+- https://dexscreener.com/
 
 ### Aidrops 
 - https://earni.fi/ - EN - Voir si vous êtes éligible à un airdrop.
 - https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/edit?usp=sharing - EN - Rumeurs de airdrops
 - https://airdrops.io/speculative/ - EN - Liste les airdrops potentiels
 
+### Flashbots
+
+- https://docs.flashbots.net/flashbots-protect/rpc/quick-start/
+
 ### ICO
 - https://icodrops.com - EN - Liste les prochaines levée de fonds
+
+### Random
+
+- https://moxie.org/2022/01/07/web3-first-impressions.html
 
 #### Telegram
 
