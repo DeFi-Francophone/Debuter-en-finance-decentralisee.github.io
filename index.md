@@ -18,6 +18,7 @@ Nous avons organisé cette page de la manière suivante;
 - https://academy.binance.com/fr/start-here (Debutant)
 - https://www.ethereum-france.com/
 - https://thedailygweifr.substack.com/
+- https://www.ethereum-france.com/un-guide-incomplet-des-rollups/ Traduction française de l'article de Vitalik sur les roll-up
 
 ### *Blockchain/cryptomonnaies/techno en Anglais*
 
@@ -41,6 +42,14 @@ Nous avons organisé cette page de la manière suivante;
 - [The need for an Incentive scheme in Algorand](https://blockchainatberkeley.blog/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
 - [Cryptoeconomics.study](https://cryptoeconomics.study) -- An free and open source book & course on Cryptoeconomics
 
+### Blockchain analysis, data ...
+- https://duneanalytics.com/home dashboard
+- https://www.tokenterminal.com/home/
+- https://defipulse.com/
+- https://defillama.com/
+- https://merv.tech/help nécéssite une inscription
+- https://app.intotheblock.com/
+- https://txstreet.com/
 
 ## 2. Applications (DeFi, NFT, DAO...)
 --------------------------------------------
@@ -67,12 +76,28 @@ Nous avons organisé cette page de la manière suivante;
 ### Applications (DeFi, NFT, DAO...)  en Anglais
 - https://www.argent.xyz/learn/
 
+### Dashboard (suivi de portfefeuille)
+- https://zapper.fi
+- https://debank.com
+- https://app.zerion.io
+
+- https://rotki.com/
+- https://gnosis-safe.io/ wallet multi-sig
+- https://bloxy.info/ Analyse une adresse, une trasaction
+ 
+### Suivi de ses positions LP
+- https://apy.vision
+- https://revert.finance
+- https://thetopdefi.com nottament pour suivre les positions sur Beefy
+- https://trackavault.com/ nottament pour suivre les positions sur Yearn
+
 ## Ressources additionnelles
 
 ### Reports
 Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQaL8mKEl8fzVWjv7B (Expert)
 
 ### Bridges 
+- https://chainlist.org/ Pour ajouter un RPC (blochchain network) à son wallet
 - https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/edit#gid=0 - Ressource ultime
 - https://www.layerswap.io/ - Déposer des crypto sur L2 depuis un CEX
 
