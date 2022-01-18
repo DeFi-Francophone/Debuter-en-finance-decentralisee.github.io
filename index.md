@@ -3,9 +3,10 @@
 Si tu es ici c'est parce que tu veux en savoir plus cet univers vaste (et pas impitoyable) qu'est la **finance décentralisée**,
 Ca tombe bien, tu es à la bonne place! Nous avons réalisé cette page qui regroupe un carnet de carnet de route qui te sera utile en tant que nouveau afin de faire ton chemin dans le vaste monde de la Défi.
 
-Prêt? C'est parti.
+Si tu veux rajouter du contenu ici, contacte :  https://t.me/D4878za9aB ou https://t.me/nicedayyyyy
+ou bien faire un Merge Request
 
-Les mainteneurs:  https://t.me/D4878za9aB https://t.me/nicedayyyyy
+Prêt? C'est parti.
 
 Nous avons organisé cette page de la manière suivante;
 
