@@ -81,10 +81,10 @@ Nous avons organisé cette page de la manière suivante;
 - https://zapper.fi
 - https://debank.com
 - https://app.zerion.io
-
+- https://apeboard.finance/
 - https://rotki.com/
 - https://gnosis-safe.io/ wallet multi-sig
-- https://bloxy.info/ Analyse une adresse, une trasaction
+- https://bloxy.info/ Analyse une adresse, une transaction
  
 ### Suivi de ses positions LP
 - https://apy.vision
