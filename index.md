@@ -153,9 +153,10 @@ Messari report 2022 FR: https://drive.google.com/drive/folders/12UdSM8sDk37ZLqgQ
 ### ICO
 - https://icodrops.com - EN - Liste les prochaines levée de fonds
 
-### Random
+### Reflexions sur la web3
 
 - https://moxie.org/2022/01/07/web3-first-impressions.html
+- https://www.profgalloway.com/web3/
 
 #### Telegram
 
