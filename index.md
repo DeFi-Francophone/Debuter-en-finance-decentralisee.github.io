@@ -25,6 +25,8 @@ Nous avons organisé cette page de la manière suivante;
 
 ### *Blockchain/cryptomonnaies/techno en Anglais*
 
+- Qu'est-ce une blockchain et son fonctionnement : https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae
+- Comment le bitcoin fonctionne ? https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc
 - https://a16z.com/2018/02/10/crypto-readings-resources/ (Avance)
 
 ### *Cryptoeconomics en Anglais*
